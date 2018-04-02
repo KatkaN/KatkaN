@@ -1,6 +1,10 @@
-## Welcome to GitHub Pages
+## Electric Water Boiler Quick User Guide
 
-You can use the [editor on GitHub](https://github.com/KatkaN/KatkaN/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this document is to describe how to use a standard electric water boiler.
+
+
+
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,15 +15,13 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## How To Use The Electric Water Boiler To Boil Water
 
-1. Numbered
-2. List
+
+
+1. **Bold**Unwind the electrical cord**Bold** from the bottom of the power base such that its length is sufficient to reach a power socket.
+2. Place the power base on a heat resistant, flat surface.
 
 **Bold** and _Italic_ and `Code` text
 
