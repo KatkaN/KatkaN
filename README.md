@@ -16,7 +16,7 @@ The purpose of this document is to describe how to use a standard electric water
  
 6. Position the water boiler **on the power base**. Check if the lid is closed properly.
 7. Turn the water boiler on by pushing the **On/Off switch**. The indicator light will light up.
-8. When the water reaches the boiling point, the water boiler will**switch** itself **off automatically**: the On/Off switch will make a click sound and return into the Off position.
+8. When the water reaches the boiling point, the water boiler will **switch** itself **off automatically**: the On/Off switch will make a click sound and return into the Off position.
 9. Now the water boiler can be removed from its power base.
 
 
